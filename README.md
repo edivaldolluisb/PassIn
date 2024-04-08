@@ -5,13 +5,22 @@ PassIn is an application designed for managing participants in in-person events.
 ![alt text](./public/Captura%20de%20ecrã%202024-04-08%20142106.png)
 ![alt text](./public/Captura%20de%20ecrã%202024-04-08%20142246.png)
 
-## Getting Started
+## Getting Started 
+
 
 ### Prerequisites
 
 Before you begin, ensure you have the following installed:
 
 - **Node.js**: Make sure you have Node.js installed on your system. If not, download and install it from here.
+    And then run:
+
+    ```bash
+    npm run dev
+    ```
+
+### If there is any error try to intall all the dependencies again
+
 
 ### Installation
 
