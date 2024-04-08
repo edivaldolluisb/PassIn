@@ -64,10 +64,8 @@ Before you begin, ensure you have the following installed:
 
 ### Using Lucid UI
 
-1. Install Lucid UI components:
-
     ```bash
     npm install lucid-react
     ```
 
-2. Explore the Lucid UI documentation for details on how to integrate and use the components in your project.
+### you can check the note.txt for less details
