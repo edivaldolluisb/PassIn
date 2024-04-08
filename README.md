@@ -2,6 +2,9 @@
 
 PassIn is an application designed for managing participants in in-person events. Organizers can create events, register participants, and facilitate check-in on the day of the event.
 
+![alt text](./public/Captura%20de%20ecrã%202024-04-08%20142106.png)
+![alt text](./public/Captura%20de%20ecrã%202024-04-08%20142246.png)
+
 ## Getting Started
 
 ### Prerequisites
