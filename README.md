@@ -1,6 +1,6 @@
 # PassIn
 
-PassIn is an application designed for managing participants in in-person events. Organizers can create events, register participants, and facilitate check-in on the day of the event.
+PassIn is a react application designed for managing participants in in-person events. Organizers can create events, register participants, and facilitate check-in on the day of the event.
 
 ![alt text](./public/Captura%20de%20ecrã%202024-04-08%20142106.png)
 ![alt text](./public/Captura%20de%20ecrã%202024-04-08%20142246.png)
@@ -19,7 +19,7 @@ Before you begin, ensure you have the following installed:
     npm run dev
     ```
 
-### If there is any error try to intall all the dependencies again
+### If there is any error try to install all the dependencies again
 
 
 ### Installation
