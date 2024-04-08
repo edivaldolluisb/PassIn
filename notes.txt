@@ -1,0 +1,20 @@
+create vite: 
+    - npm create vite@latest
+    - react
+    - typescript (I'm using typescript)
+
+run the project:
+    - cd my-app
+    - npm install or npm i
+    - npm run dev
+
+additional:  
+    using tailwindcss:
+        + install tailwindcss: npm install -D tailwind postcss autoprefixer (see Doc)
+        + npx tailwindcss init -p (create tailwind.config.js and postcss.config.js)
+        + Docs: https://tailwindcss.com/docs/installation
+
+    using lucid-ui:
+        + install lucid-ui: npm install lucid-react
+        + Docs: https://lucid-ui.netlify.app/docs/getting-started/installation
+
