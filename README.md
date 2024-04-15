@@ -76,8 +76,6 @@ Before you begin, ensure you have the following installed:
 
 ### Using Lucid UI
 
-    ```bash
     npm install lucid-react
-    ```
 
 ### you can check the note.txt for less details
